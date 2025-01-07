@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">APP JOE</string>
+    <string name="text_male">HOMBRE</string>
+    <string name="text_female">MUJER</string>
+    <string name="text_height">ALTURA</string>
+    <string name="text_weight">PESO</string>
+    <string name="text_edad">EDAD</string>
+    <string name="text_calculate">CALCULAR</string>
+    <string name="text_result">TU RESULTADO ES</string>
+    <string name="text_recalculate">RE-CALCULAR</string>
+
+    <string name="text_error">ERROR</string>
+
+    <!--TEXT IMC APP-->
+    <string name="text_bajo_peso">BAJO PESO</string>
+    <string name="text_descripcion_bajo_peso">Estás por debajo de lo óptimo para tu peso y altura.</string>
+
+    <string name="text_peso_normal">PESO NORMAL</string>
+    <string name="text_descripcion_peso_normal">Estás en lo óptimo para tu peso y altura.</string>
+
+    <string name="text_sobrepeso">SOBREPESO</string>
+    <string name="text_descripcion_sobrepeso">Estás por encima de lo óptimo para tu pero y altura.</string>
+
+    <string name="text_obesidad">OBESIDAD</string>
+    <string name="text_descripcion_obesidad">Estás MUY por debajo de lo óptimo para tu pero y altura.</string>
+
+    <!--  TEXT  TOODO APP-->
+    <string name="text_main">ACTIVIDADES Y TAREAS</string>
+    <string name="text_categoria">DIAS DE LA SEMANA</string>
+    <string name="text_tarea">TAREAS PENDIENTES</string>
+
+    <string name="text_dialog_add_task">Añade la tarea</string>
+
+    <string name="text_lunes">Lunes</string>
+    <string name="text_martes">Martes</string>
+    <string name="text_miercoles">Miercoles</string>
+    <string name="text_jueves">Jueves</string>
+    <string name="text_viernes">Viernes</string>
+    <string name="text_sabado">Sabado</string>
+    <string name="text_domingo">domingo</string>
+
+    <string name="text_agregar_task">Crear Tarea</string>
+
+</resources>
