@@ -1,2 +1,3 @@
 En este Curso de #KOTRLIN se ven los siguientes proyectos
-[url=https://postimg.cc/21jWYXVp][img]https://i.postimg.cc/21jWYXVp/uno.jpg[/img][/url] [url=https://postimg.cc/t1YVZZ32][img]https://i.postimg.cc/t1YVZZ32/unooooooo.jpg[/img][/url] 
+
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/YCYz157S/uno.jpg" alt="uno"/></a> <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/VNF9hXdQ/unooooooo.jpg" alt="unooooooo"/></a> 
